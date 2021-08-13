@@ -6,7 +6,7 @@
 ## Author		   : Smile A Happy Smile
 ## Date            : 2021-08-02
 ## Version         : 1.0    
-## Usage		   : source /path/to/file/colors.sh
+## Usage           : source /path/to/file/colors.sh
 ## Notes           : Import to get bash color variables
 ## bash_version    : 5.1.4
 ###############################################################################
